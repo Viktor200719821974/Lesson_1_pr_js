@@ -1,0 +1,38 @@
+.user_box img {
+    width: 200px;
+    padding-left: 200px;
+}
+.target {
+    font-size: 20px;
+    color: blue;
+    width: 50%;
+    background: darkseagreen;
+    margin: 10px;
+    padding:  10px;
+    border-radius: 10px ;
+    text-align: left;
+
+}
+.user_box {
+    margin-left: 300px;
+
+}
+.user_box_p {
+    margin: 10px;
+    color: blueviolet;
+}
+.product_box  {
+    display: flex;
+    margin-left: 100px;
+}
+.product_box img {
+    width: 200px;
+}
+.product_box_1 {
+    border: blue 2px solid;
+    margin: 20px;
+    color: gold;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+}
